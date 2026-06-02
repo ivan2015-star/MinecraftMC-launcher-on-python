@@ -1,4 +1,4 @@
-# MinecraftMC-launcher-on-python
+# MinecraftMC-launcher-on-python (COMING SOON!)
 A Minecraft launcher I made myself using Pyinstaller.
 
 FAQ:
