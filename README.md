@@ -1,5 +1,8 @@
 # MinecraftMC-launcher-on-python (COMING SOON!)
 A Minecraft launcher I made myself using Pyinstaller.
+This launcher is still in development! We're trying to get it ready as soon as possible! Stay tuned!
+
+Current Progress: Fixing bugs
 
 FAQ:
 
